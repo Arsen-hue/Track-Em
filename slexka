@@ -1,0 +1,4 @@
+apt update && apt upgrade
+apt install git python
+git clone https://github.com/LiNuX-Mallu/Track-Em.git
+cd Track-Em
